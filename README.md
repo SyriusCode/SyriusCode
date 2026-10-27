@@ -1,11 +1,11 @@
 # ¡Hola 👋! Soy Antonio Jesús Carrasco
 
-🚀 **Desarrollador web junior**
-🎓 Estudiante de 2º del Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)
-💻 Enfocado en el desarrollo web con PHP, el código limpio y los diseños responsive
-🧩 Prácticas en mantenimiento de sitios **WordPress** y **PrestaShop**
-📚 Aprendiendo cada día a través de la práctica y los proyectos reales
-📍 Gijón, Asturias
+🚀 **Desarrollador web junior**<br>
+🎓 Estudiante de 2º del Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)<br>
+💻 Enfocado en el desarrollo web con PHP, el código limpio y los diseños responsive<br>
+🧩 Prácticas en mantenimiento de sitios **WordPress** y **PrestaShop**<br>
+📚 Aprendiendo cada día a través de la práctica y los proyectos reales<br>
+📍 Gijón, Asturias<br>
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-/** ## 📂 Proyecto destacado
+## 📂 Proyecto destacado
 
 ### 🤝 Plataforma web para ONG de apoyo a personas
 Proyecto de 1º DAW realizado en equipo (2 personas). Aplicación web para una ONG que acompaña, con voluntarios, a personas que quieren abandonar hábitos.
